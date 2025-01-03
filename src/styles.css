@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+  min-height: 100vh;
+  background: linear-gradient(135deg, #e0f7ff 0%, #87ceeb 100%);
+}
+
+.logo {
+  width: 200px;
+  height: auto;
+}
+
+.footer {
+  text-align: center;
+  padding: 20px;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  background: rgba(255, 255, 255, 0.9);
+}
+
+.main-container {
+  padding: 20px;
+  padding-bottom: 80px;
+}
